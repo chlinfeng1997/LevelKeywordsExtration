@@ -1,6 +1,6 @@
 # Windows基于QT的英文关键词统计系统
 
-&nbsp;&nbsp;&nbsp;&nbsp;在阅读文献或者分析数据的时候，词频统计能够帮助提取主要的信息，方便我们了解大体内容，有助于之后的具体分析和挖掘。
+&nbsp;&nbsp;&nbsp;&nbsp;在阅读文献或者分析数据的时候，词频统计能够帮助提取主要的信息，方便我们了解大体内容，有助于之后的具体分析和挖掘。展示效果：https://www.bilibili.com/video/BV1YK4y1Z7iG/
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
 # 功能概括
