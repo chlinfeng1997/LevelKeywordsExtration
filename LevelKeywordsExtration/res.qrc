@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/analyse.jpg</file>
+        <file>res/analyse.png</file>
+        <file>res/deleteFile.png</file>
+        <file>res/doc.PNG</file>
+        <file>res/docNone.png</file>
+        <file>res/modifyFile.png</file>
+        <file>res/pdf.PNG</file>
+        <file>res/test.txt</file>
+        <file>res/Title.ico</file>
+        <file>res/txt.PNG</file>
+        <file>res/txtNone.png</file>
+        <file>res/load.gif</file>
+        <file>res/isloadnone.png</file>
+        <file>res/noloadnone.png</file>
+    </qresource>
+</RCC>
